@@ -1,0 +1,44 @@
+<!--TO DOS
+terminal velocity should increase by .5 every level
+align bricks to center
+sound 
+high scores
+start/finish menus
+
+on win: infinite requestPowerups() for raining powerups
+
+bugs:
+paddle speed is doubled when both arrow keys are pressed
+
+powerups:
+ball goes through everything without bouncing
+multi ball
+powerup magnet
+-->
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Breakout Clone</title>
+        <style>
+            * { padding: 0; margin: 0;}
+            canvas { background: #eee; display: block; margin: 0 auto;}
+        </style>
+    </head>
+    <body>
+<!--        <canvas id="breakout" width="768" height="512"></canvas>-->
+        <canvas id="breakout" width="1024" height="512"></canvas>
+        <br>
+        <br>
+        <h3 id="points" style="text-align: center"></h3>
+        <h3 id="lives" style="text-align: center"></h3>
+        <br>
+        <h2 id="message" style="text-align: center"></h2>
+        
+        <script src="js/audio.js"></script>
+        <script src="js/objects.js"></script>
+        <script src="js/powerups.js"></script>
+        <script src="js/collision.js"></script>
+        <script src="js/main.js"></script>
+    </body>
+</html>
