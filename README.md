@@ -10,4 +10,4 @@ Highlights include:
 ![Gameplay](img/gameplay.png?raw=true)
 
 ### Bonus Level
-![Gameplay](img/bonuslevel.png?raw=true)
+![Gameplay](img/bonusround.png?raw=true)
