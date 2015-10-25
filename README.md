@@ -4,10 +4,10 @@ This is a simple clone of the classic arcade game, Breakout. The game is constru
 Highlights include:
 * 7 retrievable powerups that affect gameplay.
 * Sound effects generated using the ball's velocity.
-* A unique bonus level at the end of the game.
+* A unique bonus round at the end of the game.
 
 ### Gameplay
 ![Gameplay](img/gameplay.png?raw=true)
 
-### Bonus Level
+### Bonus Round
 ![Gameplay](img/bonusround.png?raw=true)
