@@ -7,7 +7,7 @@ Highlights include:
 * A unique bonus level at the end of the game.
 
 ### Gameplay
-[Gameplay](img/gameplay.png?raw=true)
+![Gameplay](img/gameplay.png?raw=true)
 
 ### Bonus Level
-[Gameplay](img/gameplay.png?raw=true)
+![Gameplay](img/gameplay.png?raw=true)
